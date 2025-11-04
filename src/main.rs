@@ -1,5 +1,1 @@
-mod file;
-
-fn main() {
-    
-}
+fn main() {}
